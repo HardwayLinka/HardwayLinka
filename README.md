@@ -3,7 +3,7 @@
 💻 Interested in consensus algorithm, distributed storage system, distributed transaction and Java backend.
 
 ✍ My digital garden
-- Share technical articles on [zhihu](https://juejin.cn/user/2656864964189560/posts)
+- Share technical articles on [juejin](https://juejin.cn/user/2656864964189560/posts)
 - Share digital life on [sspai](https://sspai.com/u/4dknsd7d/posts)
 - Store archived articles on [yuque](https://www.yuque.com/hardway/il90xh)
 
