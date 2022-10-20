@@ -11,6 +11,7 @@
 - [IO多路复用技术之epoll源码](https://juejin.cn/post/7143884523174887460)
 - [Spring源码|为什么使用构造器注入可以检测依赖循环](https://juejin.cn/post/7143139612293070879)
 - [Spring IOC源码地图](https://juejin.cn/post/7143097622364946462)
+- [一个公式总结设计模式](https://juejin.cn/post/7143068693793079333)
 
 <!--
 **HardwayLinka/HardwayLinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
