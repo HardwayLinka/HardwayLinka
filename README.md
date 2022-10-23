@@ -8,6 +8,7 @@
 - Store archived articles on [yuque](https://www.yuque.com/hardway/il90xh) (in Chinese)
 
 📜 Check out my recent blog posts
+- [基于CS的学习工作流构建思路](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/workflow/)
 - [IO多路复用技术之epoll源码](https://juejin.cn/post/7143884523174887460)
 - [Spring源码|为什么使用构造器注入可以检测依赖循环](https://juejin.cn/post/7143139612293070879)
 - [Spring IOC源码地图](https://juejin.cn/post/7143097622364946462)
