@@ -5,7 +5,7 @@
 ✍ My digital garden
 - Share technical articles on [juejin](https://juejin.cn/user/2656864964189560/posts)
 - Share digital life on [sspai](https://sspai.com/u/4dknsd7d/posts)
-- Store archived articles on [yuque](https://www.yuque.com/hardway/il90xh) and ![https://img.shields.io/badge/dynamic/json?color=0084ff&logo=zhihu&label=zhihu&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dhou-hou-87-11 ]
+- Store archived articles on [yuque](https://www.yuque.com/hardway/il90xh) and ![](https://img.shields.io/badge/dynamic/json?color=0084ff&logo=zhihu&label=zhihu&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dhou-hou-87-11 )
 
 📜 Check out my recent blog posts
 - [基于CS的学习工作流构建思路](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/workflow/)
