@@ -15,12 +15,12 @@
 - [一个公式总结设计模式](https://juejin.cn/post/7143068693793079333)
 
 🎯 My Contributions
-|PROJECT|PR|
-|---|---|
-|https://github.com/elias-sundqvist/obsidian-annotator|1. https://github.com/elias-sundqvist/obsidian-annotator/pull/259 <br> 2. https://github.com/elias-sundqvist/obsidian-annotator/pull/258|
-|https://github.com/platers/obsidian-linter|https://github.com/platers/obsidian-linter/pull/455|
-|https://github.com/PKUFlyingPig/cs-self-learning|1. https://github.com/PKUFlyingPig/cs-self-learning/pull/278 <br> 2. https://github.com/PKUFlyingPig/cs-self-learning/pull/288|
-|https://github.com/timqian/chinese-independent-blogs|https://github.com/timqian/chinese-independent-blogs/pull/1173|
+|ABOUT|PROJECT|PR|
+|---|---|---|
+|A plugin for reading and annotating PDFs and EPUBs in obsidian.|https://github.com/elias-sundqvist/obsidian-annotator|1. https://github.com/elias-sundqvist/obsidian-annotator/pull/259 <br> 2. https://github.com/elias-sundqvist/obsidian-annotator/pull/258|
+|An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility.|https://github.com/platers/obsidian-linter|https://github.com/platers/obsidian-linter/pull/455|
+|计算机自学指南|https://github.com/PKUFlyingPig/cs-self-learning|1. https://github.com/PKUFlyingPig/cs-self-learning/pull/278 <br> 2. https://github.com/PKUFlyingPig/cs-self-learning/pull/288|
+|中文独立博客列表|https://github.com/timqian/chinese-independent-blogs|https://github.com/timqian/chinese-independent-blogs/pull/1173|
 
 <!--
 **HardwayLinka/HardwayLinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
