@@ -19,7 +19,7 @@
 |---|---|---|
 |A plugin for reading and annotating PDFs and EPUBs in obsidian.|https://github.com/elias-sundqvist/obsidian-annotator|1. https://github.com/elias-sundqvist/obsidian-annotator/pull/259 <br> 2. https://github.com/elias-sundqvist/obsidian-annotator/pull/258 <br> 3. https://github.com/elias-sundqvist/obsidian-annotator/pull/268|
 |An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility.|https://github.com/platers/obsidian-linter|https://github.com/platers/obsidian-linter/pull/455|
-|计算机自学指南|https://github.com/PKUFlyingPig/cs-self-learning|1. https://github.com/PKUFlyingPig/cs-self-learning/pull/278|
+|计算机自学指南|https://github.com/PKUFlyingPig/cs-self-learning|https://github.com/PKUFlyingPig/cs-self-learning/pull/278|
 
 
 <!--
