@@ -19,8 +19,8 @@
 |---|---|---|
 |A plugin for reading and annotating PDFs and EPUBs in obsidian.|https://github.com/elias-sundqvist/obsidian-annotator|1. https://github.com/elias-sundqvist/obsidian-annotator/pull/259 <br> 2. https://github.com/elias-sundqvist/obsidian-annotator/pull/258 <br> 3. https://github.com/elias-sundqvist/obsidian-annotator/pull/268|
 |An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility.|https://github.com/platers/obsidian-linter|https://github.com/platers/obsidian-linter/pull/455|
-|计算机自学指南|https://github.com/PKUFlyingPig/cs-self-learning|1. https://github.com/PKUFlyingPig/cs-self-learning/pull/278 <br> 2. https://github.com/PKUFlyingPig/cs-self-learning/pull/288|
-|中文独立博客列表|https://github.com/timqian/chinese-independent-blogs|https://github.com/timqian/chinese-independent-blogs/pull/1173|
+|计算机自学指南|https://github.com/PKUFlyingPig/cs-self-learning|1. https://github.com/PKUFlyingPig/cs-self-learning/pull/278|
+
 
 <!--
 **HardwayLinka/HardwayLinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
