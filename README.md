@@ -8,6 +8,7 @@
 💻 Interested in consensus algorithm, distributed storage system, distributed transaction and Java backend.
 
 📜 Check out my recent blog posts
+- [thingsboard的消息传输原理](https://juejin.cn/post/7194744043183472699)
 - [基于CS的学习工作流构建思路](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/workflow/)
 - [IO多路复用技术之epoll源码](https://juejin.cn/post/7143884523174887460)
 - [Spring源码|为什么使用构造器注入可以检测依赖循环](https://juejin.cn/post/7143139612293070879)
