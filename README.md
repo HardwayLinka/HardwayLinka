@@ -14,6 +14,7 @@
 - [Spring源码|为什么使用构造器注入可以检测依赖循环](https://juejin.cn/post/7143139612293070879)
 - [Spring IOC源码地图](https://juejin.cn/post/7143097622364946462)
 - [一个公式总结设计模式](https://juejin.cn/post/7143068693793079333)
+- [不是水文！没有人这样教过 Spring Security 和 OAuth 2.0](https://www.yuque.com/hardway/il90xh/cslf8n)
 
 🎯 My Contributions
 |ABOUT|PROJECT|MERGED PR|
