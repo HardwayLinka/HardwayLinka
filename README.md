@@ -13,6 +13,7 @@
 📜 Check out my recent blog posts
 - [thingsboard的消息传输原理](https://juejin.cn/post/7194744043183472699)
 - [基于CS的学习工作流构建思路](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/workflow/)
+- [3000+小时积累的学习工作流](https://sspai.com/post/75969)
 - [IO多路复用技术之epoll源码](https://juejin.cn/post/7143884523174887460)
 - [Spring IOC源码地图](https://www.yuque.com/hardway/il90xh/tfv42r)
 - [一个公式总结设计模式](https://juejin.cn/post/7143068693793079333)
