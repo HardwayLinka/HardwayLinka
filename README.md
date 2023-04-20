@@ -8,7 +8,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=HardwayLinka&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-💻 Interested in consensus algorithm, distributed storage system, distributed transaction and Java backend.
+💻 Interested in:
+* consensus algorithm
+* distributed storage system
+* distributed transaction
+* IoT
+* full stack
 
 📜 Check out my recent blog posts
 - [thingsboard的消息传输原理](https://juejin.cn/post/7194744043183472699)
